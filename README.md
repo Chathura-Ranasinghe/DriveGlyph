@@ -83,7 +83,7 @@ To provide a visual representation of the DriveGlyph object detection process an
 <u>Realtime object detecting</u>
 
 <video width="640" height="480" controls>
-  <source src="runs/detect/predict/cats.mp4" type="video/mp4">
+  <source src="runs/detect/predict/cats.gif" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
