@@ -1,0 +1,5 @@
+d:
+cd \Projects\DriveGlyph\DataSets
+conda activate yolov8_custom
+yolo task=detect mode=predict model=best.pt show=True save=True conf=0.5 source=cat.webm 
+yolo task=detect model=train epochs=100 data=data_custom.yml model=yolov8s.pt imgsz=640batch=8 patience=300

@@ -1,0 +1,6 @@
+train : D:\Projects\DriveGlyph\train
+val : D:\Projects\DriveGlyph\val
+
+nc : 1
+
+names : ["cat"]
