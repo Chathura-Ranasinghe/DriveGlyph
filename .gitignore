@@ -1,4 +1,5 @@
 train/images/*.jpeg
 train/images/*.png
 train/images/*.jpg
-runs/predict
+
+*.webm
