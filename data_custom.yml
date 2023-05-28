@@ -1,5 +1,5 @@
-train : D:\Projects\DriveGlyph\train
-val : D:\Projects\DriveGlyph\val
+train : C:\Users\Asus\Documents\GitHub\DriveGlyph\train
+val : C:\Users\Asus\Documents\GitHub\DriveGlyph\val
 
 nc : 1
 

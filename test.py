@@ -2,7 +2,7 @@ import cv2
 from ultralytics import YOLO
 
 # Load the YOLO model
-model = YOLO("D:/Projects/DriveGlyph/best.pt")
+model = YOLO("C:/Users/Asus/Documents/GitHub/DriveGlyph/best.pt")
 
 # Capture a frame from the video source
 cap = cv2.VideoCapture(0)
@@ -14,7 +14,7 @@ while True:
     flipped_frame = cv2.flip(frame, 1)
 
     # Predict on the flipped frame
-    model.predict(source=flipped_frame, show=True, conf=0.8)
+    model.predict(source=flipped_frame, show=True, conf=0.5)
 
     # Wait until a key is pressed
     if cv2.waitKey(1) & 0xFF == ord('q'):
