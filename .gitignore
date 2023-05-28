@@ -3,3 +3,4 @@ train/images/*.png
 train/images/*.jpg
 
 *.webm
+*.mp4
