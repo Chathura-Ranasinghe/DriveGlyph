@@ -78,7 +78,14 @@ To provide a visual representation of the DriveGlyph object detection process an
 
 <u>Imported file object detecting</u>
 
-![alt text](capture/trainig.png)
+![alt text](runs/detect/predict1/mycat2.jpg)
+
+<u>Realtime object detecting</u>
+
+<video width="640" height="480" controls>
+  <source src="runs/detect/predict/cats.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 These examples demonstrate the real-time object detection capabilities of DriveGlyph and showcase the accuracy of the model.
 
