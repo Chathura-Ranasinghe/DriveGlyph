@@ -68,11 +68,17 @@ To run the DriveGlyph object detector project, please follow the steps below:
 
 To provide a visual representation of the DriveGlyph object detection process and predicted objects, please refer to the following examples:
 
+<u>Labeling</u>
+
+![alt text](capture/labeling.png)
+
+<u>Trainig</u>
+
 ![alt text](capture/trainig.png)
 
-- [Example Video 2](link-to-example-video-2)
-- [Example Photo 1](link-to-example-photo-1)
-- [Example Photo 2](link-to-example-photo-2)
+<u>Imported file object detecting</u>
+
+![alt text](capture/trainig.png)
 
 These examples demonstrate the real-time object detection capabilities of DriveGlyph and showcase the accuracy of the model.
 
