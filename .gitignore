@@ -1,2 +1,3 @@
-train/images
-train/labels
+train/images/*.jpeg
+train/images/*.png
+train/images/*.jpg
