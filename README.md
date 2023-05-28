@@ -69,7 +69,7 @@ To run the DriveGlyph object detector project, please follow the steps below:
 To provide a visual representation of the DriveGlyph object detection process and predicted objects, please refer to the following examples:
 
 Trainig
-- ![alt text](capture/Screenshot 2023-05-28 001001.png)
+![alt text](capture/Screenshot 2023-05-28 001001.png)
 
 - [Example Video 2](link-to-example-video-2)
 - [Example Photo 1](link-to-example-photo-1)
