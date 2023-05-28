@@ -1,1 +1,4 @@
-/train/images
+train/images
+    *.jpg
+    *.jpeg
+    *.png
