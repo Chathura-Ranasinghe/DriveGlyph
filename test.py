@@ -5,7 +5,7 @@ from ultralytics import YOLO
 model = YOLO("C:/Users/Asus/Documents/GitHub/DriveGlyph/best.pt")
 
 # Capture a frame from the video source
-cap = cv2.VideoCapture(0)
+cap = cv2.VideoCapture(1)
 
 while True:
     ret, frame = cap.read()
