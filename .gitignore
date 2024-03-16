@@ -4,3 +4,5 @@ train/images/*.jpg
 
 *.webm
 *.mp4
+
+/driveglyph
